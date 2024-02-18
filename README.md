@@ -6,7 +6,7 @@ The Agriculture Business Domain Project aims to explore and analyze crop product
 
 ## Dataset
 
-The dataset used for this project contains a vast amount of information on crop production in India. You can download the dataset [here]((https://drive.google.com/file/d/1b3E1vpDSYpHe8YlNs3jkt30Lx6acf0Uo/view?usp=share_link)).
+The dataset used for this project contains a vast amount of information on crop production in India. You can download the dataset [here](https://drive.google.com/file/d/1b3E1vpDSYpHe8YlNs3jkt30Lx6acf0Uo/view?usp=share_link).
 
 ## Approaches
 
