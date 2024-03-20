@@ -32,5 +32,5 @@ The project is organized into the following components:
 ## Author
 U.Aravindhakumar
 ## Contect
-Gmail : msdaravind92@gmail.com
-phone : 91+ 9360379653
+1. Gmail : msdaravind92@gmail.com
+2. Phone : 91+ 9360379653
